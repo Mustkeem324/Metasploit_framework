@@ -1,6 +1,6 @@
 # Metasploit Framework
 
-![Metasploit Logo](metasploit_logo.png)
+![Metasploit Logo]([https://www.pcquest.com/wp-content/uploads/2016/07/Metasploit-Framework.png])
 
 ## Introduction
 
